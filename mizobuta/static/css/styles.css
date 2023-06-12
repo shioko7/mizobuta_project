@@ -1,0 +1,22 @@
+
+body {
+    background-image: url("/static/images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1.display-4 {
+    font-size: 4rem;
+}
+
+.btn-success {
+    font-size: 1.5rem;
+    padding: 12px 24px;
+}
